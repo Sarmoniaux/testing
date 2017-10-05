@@ -18,3 +18,4 @@
 
 > Q.3a On ne peut pas tester cette opération en l'état car random renvoie toujours un nombre aléatoire, ce qui la rend impossible à tester. Il faut utiliser le principe de Mock qui permet de prévoir le comportement de la fonction et de renvoyer des résultats prédéterminés de manière à pouvoir les vérifier avec un test
 
+> Q.3c Le test avec Mockito retourne des échecs puisque la méthode setY ne fonctionne pas correctement.
